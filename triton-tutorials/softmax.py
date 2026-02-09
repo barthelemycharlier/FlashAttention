@@ -76,3 +76,7 @@ def softmax(x):
     kernel._init_handles()
     n_regs = kernel.n_regs
     sram_needed_per_program = kernelmetada
+
+
+### sadly forgot to git push and lost the complete code, feel very sad but that is lif
+
